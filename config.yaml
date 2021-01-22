@@ -1,0 +1,5 @@
+i3-config: /home/isidro-trabajo/.config/i3/config
+polybar-config: /home/isidro-trabajo/.config/polybar/config
+xresources: /home/isidro-trabajo/.Xresources
+nitrogen-config: /home/isidro-trabajo/.config/nitrogen/bg-saved.cfg
+wallpaper-path: /home/isidro-trabajo/.config/nitrogen/
